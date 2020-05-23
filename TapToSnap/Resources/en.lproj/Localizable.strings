@@ -1,0 +1,10 @@
+/*
+  Localization.strings
+  TapToSnap
+
+  Created by Felipe Gomez on 4/17/20.
+  Copyright © 2020 Hijos de la Luz. All rights reserved.
+*/
+
+"IMPORTANT" = "IMPORTANT";
+"PleaseAllowCameraAccess" = "Please allow us to access the camera so you can take a picture";
